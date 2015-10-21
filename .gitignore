@@ -1,0 +1,5 @@
+.sass-cache/
+*.css.map
+resources/images/
+resources/fonts/
+resources/other/
